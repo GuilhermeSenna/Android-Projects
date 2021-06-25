@@ -1,2 +1,2 @@
 # Android-Projects
- Old projects created in Android-Java
+ Old simple projects created in Android-Java
